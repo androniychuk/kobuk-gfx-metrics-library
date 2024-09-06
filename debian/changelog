@@ -1,0 +1,17 @@
+metrics-library (1.0.166-973-0ubuntu1~24.04~ppa1) noble; urgency=medium
+
+  * Update version number
+
+ -- Shane McKee <shane.mckee@canonical.com>  Mon, 6 Sep 2024 04:24:58 +0400
+
+metrics-library (1.0.166-973~24.04) UNRELEASED; urgency=medium
+
+  * build dev-build
+
+ -- Markova Maria <maria.markova@intel.com>  Mon, 19 Aug 2024 12:08:53 -0700
+
+metrics-library (1.0.1) experimental; urgency=medium
+
+  * Initial release in Agama.
+
+ -- Markova Maria <maria.markova@intel.com>  Wed, 06 Mar 2020 13:00:31 +0100
