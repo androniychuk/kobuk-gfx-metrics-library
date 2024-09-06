@@ -1,3 +1,9 @@
+metrics-library (1.0.166-973-0ubuntu1~24.04~ppa2) noble; urgency=medium
+
+  * Update source to match version number
+
+ -- Shane McKee <shane.mckee@canonical.com>  Fri, 06 Sep 2024 21:52:04 +0800
+
 metrics-library (1.0.166-973-0ubuntu1~24.04~ppa1) noble; urgency=medium
 
   * Update version number
