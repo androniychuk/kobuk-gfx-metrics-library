@@ -1,3 +1,9 @@
+metrics-library (1.0.178-0ubuntu1~24.10~ppa1) oracular; urgency=medium
+
+  * Bump version to 1.0.178 
+
+ -- Pavel Androniychuk <pavel.androniychuk@intel.com>  Thu, 24 Oct 2024 11:48:04 -0700
+
 metrics-library (1.0.173-1-0ubuntu1~24.10~ppa1) oracular; urgency=medium
 
   * Update source to 1.0.173
